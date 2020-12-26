@@ -22,7 +22,7 @@ You need:
 
 - A computer that can run Linux (a laptop, a PC or a raspberry pi).
 - A camera (let's assume it's a USB-camera)
-- A microphone (let's assume is's a USB-microphone)
+- A microphone (let's assume it's a USB-microphone)
 - For ease of use: A USB gamepad with colored buttons.
 - internet access (LAN or Wifi)
 
@@ -63,3 +63,14 @@ Stretch-goals:
 
   sudo apt install openbox devilspie2 antimicro xloadkeys
 
+Files we need to take care of:
+
+~/.dmrc (select session, WM)
+
+~/gameppad_remaps.gamecontroller.amgp
+
+~/.xbindkeysrc
+
+~/.config/antimicro/antimicro_settings.ini
+
+~/scripts/*
