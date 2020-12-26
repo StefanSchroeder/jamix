@@ -74,3 +74,6 @@ Files we need to take care of:
 ~/.config/antimicro/antimicro_settings.ini
 
 ~/scripts/*
+
+/etc/lightdm/lightdm.conf
+https://wiki.archlinux.org/index.php/LightDM
